@@ -41,7 +41,7 @@ pip install numpy matplotlib scikit-learn keras
 - Achieves over **90% accuracy** on the MNIST test set after 150 epochs.
 - Displays a confusion matrix to visualize classification performance across all digit classes.
 
-## Example Output
+## Output
 ```
 Epoch 150/150 - loss: 0.8208 - accuracy: 0.9352 - val_loss: 1.4505 - val_accuracy: 0.9025
 Train Accuracy: 0.9352
